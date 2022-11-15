@@ -2,8 +2,8 @@ import 'dart:isolate';
 
 import 'package:collection/collection.dart';
 
-import '../extensions/list.extension.dart';
-import '../interfaces/operator.interface.dart';
+import 'extensions/list.extension.dart';
+import 'interfaces/operator.interface.dart';
 
 part 'models/automoto.model.dart';
 part 'models/afd_state.model.dart';

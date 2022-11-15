@@ -80,7 +80,6 @@ Set<dynamic> buildRules(
         }
       }
 
-      print(state);
       notVisited.remove(state);
     }
     Set<int> newVisiteds = {};
